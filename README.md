@@ -1,6 +1,4 @@
-# finalCapstone
-
-## watch_next
+# watch_next
 
 The project uses a Python script that recommends movies based on a watched movie description. 
 It uses the NumPy library for working with arrays and matrices, the spaCy library for natural language processing (NLP), and the Pandas library 
@@ -23,8 +21,8 @@ for data manipulation.
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/al1A91/finalCapstone.git
-
+   git clone https://github.com/al1A91/watch_next.git
+   
 
 1. Install the required libraries:
    ```bash
@@ -45,7 +43,7 @@ Example data found in the main.
 
 2. Navigate to the project directory:
    ```bash
-   cd {location}
+   cd watch_next.py
 
 4. Run the script
    ```bash
@@ -57,9 +55,6 @@ Example data found in the main.
    
 6. The script will recommend a list of similar movies based on the description.
 
-## Sample output
-
-![sampleOutput](sampleOutput.png)
 
 ## License
 
